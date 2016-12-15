@@ -1,0 +1,4 @@
+FROM php:7.0-fpm
+
+#install mysql extension
+RUN docker-php-ext-install pdo_mysql

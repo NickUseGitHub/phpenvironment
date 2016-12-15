@@ -1,0 +1,19 @@
+{
+    "name": "nick",
+    "description": "nick",
+    "type": "project",
+    "license": "nick",
+    "authors": [
+        {
+            "name": "Nick",
+            "email": "nickt.tnick@gmail.com"
+        }
+    ],
+    "repositories": [
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "phpmailer/phpmailer": "~5.2"
+    }
+}
